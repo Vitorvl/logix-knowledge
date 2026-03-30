@@ -1,0 +1,5 @@
+Pergunta: Para que serve o programa 6173?
+Resposta: O programa 6173 é utilizado para consulta de cadastro de itens, permitindo verificar informações como item depositante, descrição e altura.
+
+Pergunta: Para que serve o programa WMS10021?
+Resposta: O programa WMS10021 é utilizado para cadastro completo de itens, permitindo alterar controles gerais do item.
